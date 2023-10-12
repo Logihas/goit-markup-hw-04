@@ -354,3 +354,9 @@ gap: 32px;
   border-radius: 4px;
   margin-bottom: 8px;
 }
+.section-four-svg{
+display: flex;
+justify-content: center;
+gap: 24px;
+
+}
