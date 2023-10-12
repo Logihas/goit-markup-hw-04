@@ -358,5 +358,8 @@ gap: 32px;
 display: flex;
 justify-content: center;
 gap: 24px;
-
+}
+.section-four-svg-li{
+  width: 40px;
+  height: 40px;
 }
