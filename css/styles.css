@@ -342,3 +342,12 @@ gap: 32px;
   border: 1px solid var(--color-portfolio);
   border-top: none;
 }
+.div-section-two{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 112px;
+  background-color: #f4f4fd;
+  border-radius: 4px;
+  margin-bottom: 8px;
+}
