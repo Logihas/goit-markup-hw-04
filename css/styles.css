@@ -385,3 +385,13 @@ background-color: #404bbf;
 .svg-li{
   fill: var(--color-footer);
 }
+.section-five{
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+.heading-fife-s{
+  font-size: 36px;
+  line-height: 1.11;
+  color: var(--color-section1);
+  margin-bottom: 72px;
+}
