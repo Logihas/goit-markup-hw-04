@@ -5,6 +5,7 @@
 --color-paragraph:#434455;
 --color-portfolio:#e7e9fc;
 --color-menu-p:#404BBF;
+--section-fife:#8e8f99;
 }
 body{
   font-family:"Roboto", sans-serif;
@@ -394,4 +395,30 @@ background-color: #404bbf;
   line-height: 1.11;
   color: var(--color-section1);
   margin-bottom: 72px;
+}
+.ul-section-fife{
+  display: flex;
+  gap: 24px;
+}
+.li-fife-section{
+  width: calc((100% - 120px) /6 );
+  height: 88px;
+}
+.link-section-fife{
+  width: 100%;
+  height: 100%;
+  border: 1px solid #8e8f99;
+  border-radius: 4px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--section-fife);
+}
+.link-section-fife:hover{
+  border-color: #404bbf;
+  color: #404bbf;
+}
+.link-section-fife:focus{
+  border-color: #404bbf;
+  color: #404bbf;
 }
