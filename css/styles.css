@@ -433,7 +433,7 @@ background-color: #404bbf;
 .svg-section-fife{
   fill: currentColor;
 }
-.div-footer{
+.div-footer-main{
   display: flex;
   align-items: baseline;
 }
@@ -449,4 +449,22 @@ background-color: #404bbf;
   box-shadow: 0px 1px 6px rgba(46, 47, 66, 0.08),
     0px 1px 1px rgba(46, 47, 66, 0.16),
     0px 2px 1px rgba(46, 47, 66, 0.08);;
+}
+.div-footer-one{
+  margin-right: 120px;
+}
+.paragraph-footer-one{
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--color-footer-div);
+  margin-bottom: 16px;
+}
+.ul-footer{
+  display: flex;
+  gap: 16px;
+}
+.li-footer{
+  height: 40px;
 }
