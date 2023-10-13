@@ -426,3 +426,8 @@ background-color: #404bbf;
 .svg-section-fife{
   fill: currentColor;
 }
+.div-footer{
+  display: flex;
+  align-items: baseline;
+  margin-right: 120px;
+}
