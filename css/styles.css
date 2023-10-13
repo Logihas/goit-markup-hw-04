@@ -427,16 +427,7 @@ background-color: #404bbf;
 .svg-section-fife{
   fill: currentColor;
 }
-.p-footer{
-  font-weight: 500;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  color: var(--color-footer-div);
-  margin-bottom: 16px;
-}
-.ul-footer{
+.div-footer{
   display: flex;
-  gap: 16px;
-  
+  align-items: baseline;
 }
