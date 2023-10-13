@@ -6,6 +6,7 @@
 --color-portfolio:#e7e9fc;
 --color-menu-p:#404BBF;
 --section-fife:#8e8f99;
+--color-footer-div:#FFFFFF;
 }
 body{
   font-family:"Roboto", sans-serif;
@@ -426,8 +427,16 @@ background-color: #404bbf;
 .svg-section-fife{
   fill: currentColor;
 }
-.div-footer{
+.p-footer{
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  color: var(--color-footer-div);
+  margin-bottom: 16px;
+}
+.ul-footer{
   display: flex;
-  align-items: baseline;
-  margin-right: 120px;
+  gap: 16px;
+  
 }
