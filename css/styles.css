@@ -395,6 +395,7 @@ background-color: #404bbf;
   line-height: 1.11;
   color: var(--color-section1);
   margin-bottom: 72px;
+  text-align: center;
 }
 .ul-section-fife{
   display: flex;
@@ -421,4 +422,7 @@ background-color: #404bbf;
 .link-section-fife:focus{
   border-color: #404bbf;
   color: #404bbf;
+}
+.svg-section-fife{
+  fill: currentColor;
 }
